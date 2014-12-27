@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CEN-T-ONARDO</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="EstimatedCost">Estimated cost:</string>
+    <string name="Money_Default" translatable="false">0,00</string>
+    <string name="Money_1" translatable="false">1€</string>
+    <string name="Money_2" translatable="false">2€</string>
+    <string name="Money_5" translatable="false">5€</string>
+    <string name="Money_10" translatable="false">10€</string>
+    <string name="Money_20" translatable="false">20€</string>
+    <string name="Money_0.25" translatable="false">0,25€</string>
+    <string name="Money_0.50" translatable="false">0,50€</string>
+    <string name="Money_0.10" translatable="false">0,10€</string>
+    <string name="Money_0.05" translatable="false">0,05€</string>
+    <string name="ClearAll">Clear All</string>
+    <string name="ClearAmount">Clear Amount</string>
+    <string name="Euro">€</string>
+    <string name="ClearAmnt">Please click on the button of the value you want to delete.</string>
+    <string name="Sub" translatable="false">-1</string>
+</resources>

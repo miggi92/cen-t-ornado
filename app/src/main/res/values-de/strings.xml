@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CEN-T-ONARDO</string>
+    <string name="ClearAll">Alles Löschen</string>
+    <string name="ClearAmnt">Bitte klicken Sie auf den Knopf mit dem Betrag, welchen Sie löschen wollen.</string>
+    <string name="ClearAmount">Betrag Löschen</string>
+    <string name="EstimatedCost">Geschätzte Kosten</string>
+    <string name="Euro">€</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="hello_world">Hallo Welt!</string>
+</resources>
